@@ -9,6 +9,10 @@ The repository is organized into folders for each course, with subdirectories fo
 
 
 5th sem/
+├── Past Papers/
+│   ├── DS/
+│   └── OS/
+│   └── VP/
 │
 ├── Principles of Operating Systems/
 │   ├── Labs/
