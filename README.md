@@ -10,17 +10,17 @@ The repository is organized into folders for each course, with subdirectories fo
 ```
 5th sem/
 ├── Past Papers/
-│   ├── DS/
-│   └── OS/
+│   |── DS/
+│   |── OS/
 │   └── VP/
 │
 ├── Principles of Operating Systems/
-│   ├── Labs/
-│       ├── Lab-1/
+│   └── Labs/
+│       └── Lab-1/
 │
 ├── Statistics and Probability Theory/
-│   ├── Lectures/
+│   └── Lectures/
 │
-├── Visual Programming/
-    ├── Lectures/
+└── Visual Programming/
+    └── Lectures/
 ```
