@@ -14,8 +14,8 @@ The repository is organized into folders for each course, with subdirectories fo
 │   └── SP/
 |
 ├── Past Papers/
-│   |── DS/
-│   |── OS/
+│   ├── DS/
+│   ├── OS/
 │   └── VP/
 │
 ├── Database Systems/
