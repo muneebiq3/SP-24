@@ -14,23 +14,20 @@ The repository is organized into folders for each course, with subdirectories fo
 │   └── SP/
 |
 ├── Past Papers/
-│   ├── DS/
-│   ├── OS/
+│   |── DS/
+│   |── OS/
 │   └── VP/
 │
 ├── Database Systems/
 |   └── Lectures/
 │
 ├── Principles of Operating Systems/
-│   ├── Labs/
-│   |   ├── Lab-1/
-|   |   └── Lab-2/
-│   |
-|   └── Lectures/
-|
+│   └── Labs/
+│       └── Lab-1/
+│
 ├── Statistics and Probability Theory/
 │   └── Lectures/
 │
-├── Visual Programming/
+└── Visual Programming/
     └── Lectures/
 ```
