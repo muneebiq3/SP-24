@@ -12,22 +12,36 @@ The repository is organized into folders for each course, with subdirectories fo
 ├── Assignments/
 │   ├── DS/
 │   └── SP/
-|
+├── Database Systems/
+│   ├── Assignments/
+│   │   └── Assignment-1/
+│   └── Lectures/
+│
 ├── Past Papers/
 │   ├── DS/
 │   ├── OS/
 │   └── VP/
 │
-├── Database Systems/
-|   └── Lectures/
-│
 ├── Principles of Operating Systems/
-│   └── Labs/
-│       └── Lab-1/
+│   ├── Labs/
+│   │   ├── Lab-1/
+│   │   └── Lab-2/
+│   └── Lectures/
+│
+├── Professional Practices/
+│   └── Lectures/
 │
 ├── Statistics and Probability Theory/
 │   └── Lectures/
+
+├── Theory of Programming Languages/
+│   └── Lectures/
 │
-└── Visual Programming/
-    └── Lectures/
+├── Visual Programming/
+│   ├── Labs/
+│   │   └── Lab-1/     
+│           ├── Q-1/
+│           ├── Q-2/
+│           └── VP-1/
+│   └── Lectures/
 ```
