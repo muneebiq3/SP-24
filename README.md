@@ -40,8 +40,8 @@ The repository is organized into folders for each course, with subdirectories fo
 ├── Visual Programming/
 │   ├── Labs/
 │   │   └── Lab-1/     
-│           ├── Q-1/
-│           ├── Q-2/
-│           └── VP-1/
+│   │       ├── Q-1/
+│   │       ├── Q-2/
+│   │       └── VP-1/
 │   └── Lectures/
 ```
