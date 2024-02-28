@@ -12,6 +12,7 @@ The repository is organized into folders for each course, with subdirectories fo
 ├── Assignments/
 │   ├── DS/
 │   └── SP/
+│
 ├── Database Systems/
 │   ├── Assignments/
 │   │   └── Assignment-1/
@@ -33,15 +34,15 @@ The repository is organized into folders for each course, with subdirectories fo
 │
 ├── Statistics and Probability Theory/
 │   └── Lectures/
-
+│
 ├── Theory of Programming Languages/
 │   └── Lectures/
 │
-├── Visual Programming/
-│   ├── Labs/
-│   │   └── Lab-1/     
-│   │       ├── Q-1/
-│   │       ├── Q-2/
-│   │       └── VP-1/
-│   └── Lectures/
+└── Visual Programming/
+    ├── Labs/
+    │   └── Lab-1/     
+    │       ├── Q-1/
+    │       ├── Q-2/
+    │       └── VP-1/
+    └── Lectures/
 ```
