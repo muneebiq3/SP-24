@@ -9,40 +9,69 @@ The repository is organized into folders for each course, with subdirectories fo
 
 ```
 5th sem/
+│
 ├── Assignments/
+│   │
 │   ├── DS/
-│   └── SP/
+│   │   │
+│   │   ├── Lab/
+│   │   │  
+│   │   └── Theory/
+│   │       │
+│   │       └── Assignment-1/
+│   │
+│   ├── OS/
+│   │   │
+│   │   ├── Lab/
+│   │   │
+│   │   └── Theory/
+│   │
+│   ├── SP/
+│   │ 
+│   └── VP/
+│       │
+│       ├── Lab/
+│       │   │
+│       │   └── Assignment-1/
+│       │
+│       └── Theory/
+│            
 │
 ├── Database Systems/
-│   ├── Assignments/
-│   │   └── Assignment-1/
+│   │
 │   └── Lectures/
 │
 ├── Past Papers/
+│   │
 │   ├── DS/
+│   │
 │   ├── OS/
+│   │
 │   └── VP/
 │
 ├── Principles of Operating Systems/
+│   │
 │   ├── Labs/
+│   │   │
 │   │   ├── Lab-1/
+│   │   │
 │   │   └── Lab-2/
+│   │
 │   └── Lectures/
 │
 ├── Professional Practices/
+│   │
 │   └── Lectures/
 │
 ├── Statistics and Probability Theory/
+│   │
 │   └── Lectures/
 │
 ├── Theory of Programming Languages/
+│   │
 │   └── Lectures/
 │
 └── Visual Programming/
-    ├── Labs/
-    │   └── Lab-1/     
-    │       ├── Q-1/
-    │       ├── Q-2/
-    │       └── VP-1/
+    │
     └── Lectures/
 ```
