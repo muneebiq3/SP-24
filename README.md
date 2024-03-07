@@ -39,7 +39,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │
 ├── Database Systems/
 │   │
-│   └── Lectures/
+│   ├── Lectures/
+│   │
+│   └── Notes/
 │
 ├── Past Papers/
 │   │
@@ -55,7 +57,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │
 │   │   ├── Lab-1/
 │   │   │
-│   │   └── Lab-2/
+│   │   ├── Lab-2/
+│   │   │
+│   │   └── Lab-4/
 │   │
 │   └── Lectures/
 │
@@ -65,7 +69,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │
 ├── Statistics and Probability Theory/
 │   │
-│   └── Lectures/
+│   ├── Lectures/
+│   │
+│   └── Notes/
 │
 ├── Theory of Programming Languages/
 │   │
