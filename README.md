@@ -10,6 +10,7 @@ The repository is organized into folders for each course, with subdirectories fo
 ```
 5th sem/
 │
+│
 ├── Assignments/
 │   │
 │   ├── DS/
@@ -23,8 +24,10 @@ The repository is organized into folders for each course, with subdirectories fo
 │   ├── OS/
 │   │   │
 │   │   ├── Lab/
-│   │   │   │
-│   │   │   └── Assignment-3/
+│   │   │    │
+│   │   │    ├── Assignment-3/
+│   │   │    │
+│   │   │    └── Assignment-4/
 │   │   │
 │   │   └── Theory/
 │   │
@@ -33,17 +36,17 @@ The repository is organized into folders for each course, with subdirectories fo
 │   └── VP/
 │       │
 │       ├── Lab/
-│       │   │
 │       │   └── Assignment-1/
 │       │
 │       └── Theory/
-│            
+│    
 │
 ├── Database Systems/
 │   │
 │   ├── Lectures/
 │   │
 │   └── Notes/
+│
 │
 ├── Past Papers/
 │   │
@@ -52,6 +55,7 @@ The repository is organized into folders for each course, with subdirectories fo
 │   ├── OS/
 │   │
 │   └── VP/
+│
 │
 ├── Principles of Operating Systems/
 │   │
@@ -65,9 +69,11 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │
 │   └── Lectures/
 │
+│
 ├── Professional Practices/
 │   │
 │   └── Lectures/
+│
 │
 ├── Statistics and Probability Theory/
 │   │
@@ -75,9 +81,11 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │
 │   └── Notes/
 │
+│
 ├── Theory of Programming Languages/
 │   │
 │   └── Lectures/
+│
 │
 └── Visual Programming/
     │
