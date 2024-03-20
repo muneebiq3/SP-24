@@ -34,6 +34,10 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   └── Theory/
 │   │
 │   ├── SP/
+│   │    │
+│   │    ├── Assignment-1/
+│   │    │
+│   │    └── Assignment-2/
 │   │ 
 │   └── VP/
 │       │
