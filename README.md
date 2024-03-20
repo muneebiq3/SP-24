@@ -38,6 +38,7 @@ The repository is organized into folders for each course, with subdirectories fo
 │   └── VP/
 │       │
 │       ├── Lab/
+│       │   │
 │       │   └── Assignment-1/
 │       │
 │       └── Theory/
@@ -67,7 +68,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │
 │   │   ├── Lab-2/
 │   │   │
-│   │   └── Lab-4/
+│   │   ├── Lab-4/
+│   │   │
+│   │   └── Lab-5/
 │   │
 │   └── Lectures/
 │
