@@ -48,7 +48,13 @@ The repository is organized into folders for each course, with subdirectories fo
 │       │
 │       ├── Lab/
 │       │   │
-│       │   └── Assignment-1/
+│       │   ├── Assignment-1/
+│       │   │   │
+│       │   │   ├── 2DArray
+│       │   │   │
+│       │   │   └── StringArray
+│       │   │
+│       │   └── Assignment-2/
 │       │
 │       └── Theory/
 │    
