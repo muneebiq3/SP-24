@@ -13,7 +13,7 @@ The repository is organized into folders for each course, with subdirectories fo
 │
 ├── Assignments/
 │   │
-│   ├── DS/
+│   ├── Database Systems/
 │   │   │
 │   │   ├── Lab/
 │   │   │  
@@ -23,7 +23,7 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │       │  
 │   │       └── Assignment-2/
 │   │
-│   ├── OS/
+│   ├── Principles of Operating Systems/
 │   │   │
 │   │   ├── Lab/
 │   │   │    │
@@ -38,13 +38,13 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │
 │   │   └── Assignment-1/
 │   │ 
-│   ├── SP/
+│   ├── Statistics and Probability Theory/
 │   │   │
 │   │   ├── Assignment-1/
 │   │   │
 │   │   └── Assignment-2/
 │   │ 
-│   └── VP/
+│   └── Visual Programming/
 │       │
 │       ├── Lab/
 │       │   │
