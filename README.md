@@ -29,7 +29,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │    │
 │   │   │    ├── Assignment-3/
 │   │   │    │
-│   │   │    └── Assignment-4/
+│   │   │    ├── Assignment-4/
+│   │   │    │
+│   │   │    └── Assignment-5/
 │   │   │
 │   │   └── Theory/
 │   │
@@ -49,14 +51,16 @@ The repository is organized into folders for each course, with subdirectories fo
 │       ├── Lab/
 │       │   │
 │       │   ├── Assignment-1/
-│       │   │   │
-│       │   │   ├── 2DArray
-│       │   │   │
-│       │   │   └── StringArray
 │       │   │
 │       │   └── Assignment-2/
+│       │       │
+│       │       ├── 2DArray
+│       │       │
+│       │       └── StringArray
 │       │
 │       └── Theory/
+│           │
+│           └── Assignment-1/
 │    
 │
 ├── Database Systems/
@@ -68,11 +72,13 @@ The repository is organized into folders for each course, with subdirectories fo
 │
 ├── Past Papers/
 │   │
-│   ├── DS/
+│   ├── Database Systems/
 │   │
-│   ├── OS/
+│   ├── Principles of Operating System/
 │   │
-│   └── VP/
+│   ├── Statistics and Probability Theory/
+│   │
+│   └── Visual Programming/
 │
 │
 ├── Principles of Operating Systems/
