@@ -98,7 +98,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │
 ├── Professional Practices/
 │   │
-│   └── Lectures/
+│   ├── Lectures/
+│   │
+│   └── Notes/
 │
 │
 ├── Statistics and Probability Theory/
