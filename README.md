@@ -31,7 +31,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │    │
 │   │   │    ├── Assignment-4/
 │   │   │    │
-│   │   │    └── Assignment-5/
+│   │   │    ├── Assignment-5/
+│   │   │    │
+│   │   │    └── Assignment-7/
 │   │   │
 │   │   └── Theory/
 │   │
@@ -53,15 +55,20 @@ The repository is organized into folders for each course, with subdirectories fo
 │       │   │
 │       │   ├── Assignment-1/
 │       │   │
-│       │   └── Assignment-2/
-│       │       │
-│       │       ├── 2DArray
-│       │       │
-│       │       └── StringArray
+│       │   ├── Assignment-2/
+│       │   │   │
+│       │   │   ├── 2DArray
+│       │   │   │
+│       │   │   └── StringArray
+│       │   │
+│       │   └── Assignment-3/
+│       │
 │       │
 │       └── Theory/
+│           │ 
+│           ├── Assignment-2/
 │           │
-│           └── Assignment-1/
+│           └── Assignment-3/
 │    
 │
 ├── Database Systems/
