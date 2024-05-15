@@ -35,7 +35,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │    │
 │   │   │    ├── Assignment-5/
 │   │   │    │
-│   │   │    └── Assignment-7/
+│   │   │    ├── Assignment-7/
+│   │   │    │
+│   │   │    └── Assignment-8/
 │   │   │
 │   │   └── Theory/
 │   │
