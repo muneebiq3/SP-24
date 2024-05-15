@@ -20,8 +20,10 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   └── Theory/
 │   │       │
 │   │       ├── Assignment-1/
+│   │       │
+│   │       ├── Assignment-2/
 │   │       │  
-│   │       └── Assignment-2/
+│   │       └── Assignment-3/
 │   │
 │   ├── Principles of Operating Systems/
 │   │   │
