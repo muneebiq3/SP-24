@@ -46,8 +46,10 @@ The repository is organized into folders for each course, with subdirectories fo
 │   ├── Professional Practices/
 │   │   │
 │   │   ├── Assignment-1/
+│   │   │
+│   │   ├── Assignment-2/
 │   │   │  
-│   │   └── Assignment-2/
+│   │   └── Assignment-4/
 │   │ 
 │   ├── Statistics and Probability Theory/
 │   │   │
