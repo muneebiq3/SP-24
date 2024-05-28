@@ -114,7 +114,9 @@ The repository is organized into folders for each course, with subdirectories fo
 │   │   │
 │   │   └── Lab-5/
 │   │
-│   └── Lectures/
+│   ├── Lectures/
+│   │
+│   └── Notes/
 │
 │
 ├── Professional Practices/
