@@ -69,7 +69,10 @@ The repository is organized into folders for each course, with subdirectories fo
 │       │   │   │
 │       │   │   └── StringArray
 │       │   │
-│       │   └── Assignment-3/
+│       │   ├── Assignment-3/
+│       │   │
+│       │   │
+│       │   └── Assignment-4/
 │       │
 │       │
 │       └── Theory/
